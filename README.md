@@ -1,77 +1,89 @@
-## Hi there! 👋 I'm Jenil Mangukiya
+## Hi there! 👋 I'm Jenil mangukiya
 
 ### 🚀 About Me
 
-I'm a **Frontend Developer** with over **3 years of experience** in building modern, responsive, and scalable web applications. I specialize in **React.js, Next.js, TypeScript, and JavaScript** and have a knack for creating user-centric and visually appealing interfaces.
+I'm a **Full Stack Developer** with over **3 years of experience** in designing and developing scalable, responsive, and user-friendly web applications. My expertise spans both the **frontend** and **backend**, allowing me to create complete and robust software solutions.
 
-I'm currently expanding my skill set by exploring **full-stack development** using **Node.js, Express.js, MongoDB, and MySQL** and diving into **CI/CD** with **GitHub Actions**.
-
-🌟 **Mission:** To deliver high-quality, impactful software solutions that solve real-world problems.
+🌟 **Mission:** To deliver end-to-end solutions that meet business needs and provide exceptional user experiences.
 
 ---
 
 ### 🛠️ Skills
 
-**Frontend:**
+#### **Frontend Development**
 
-- React.js, Next.js, Redux, TypeScript, JavaScript, GraphQL, TanStack Query
-- UI Libraries: Material-UI (MUI), TailwindCSS
+- **Technologies:** React.js, Next.js, Redux, TypeScript, JavaScript, GraphQL, TanStack Query
+- **UI Libraries:** Material-UI (MUI), TailwindCSS
+- **Key Areas:** Responsive Design, Component-Based Architecture, SPA Development
 
-**Backend:**
+#### **Backend Development**
 
-- Node.js, Express.js, PHP, CodeIgniter
+- **Technologies:** Node.js, Express.js, PHP, CodeIgniter
+- **Database Management:** MongoDB, MySQL
+- **Key Areas:** RESTful APIs, Authentication & Authorization, Database Design, Server-Side Rendering
 
-**Databases:**
+#### **DevOps & Tools**
 
-- MongoDB, MySQL, Postgres
-
-**Tools & Platforms:**
-
-- Git, GitHub Actions, Docker
-- Figma for UI design
+- CI/CD: GitHub Actions
+- Docker: Containerization and Deployment
+- Version Control: Git, GitHub
+- Design Tools: Figma
 
 ---
 
 ### 💼 Featured Projects
 
 1.  **Q-MENU**\
-    A QR code-based menu system for restaurants and hotels, featuring order management, automated billing, and comprehensive reporting.
+    A QR code-based menu system for restaurants and hotels with features like order management, automated billing, and comprehensive reporting.
+
+    - **Frontend:** React.js, Material-UI
+    - **Backend:** Node.js, MongoDB
 
 2.  **Chat Application**\
     A real-time chat app with features like group and direct messaging, friend requests, and profile management.
 
+    - **Frontend:** React.js
+    - **Backend:** Node.js, Express.js, MongoDB
+
 3.  **Classic Admin Panel**\
-    A modern and intuitive admin panel built with React.js and MUI. Features include user management, real-time analytics, role-based access control, and dynamic data visualization.
+    A modern admin panel for managing users, real-time analytics, role-based access control, and data visualization.
+
+    - **Frontend:** React.js, MUI
+    - **Backend:** Node.js, Express.js
 
 4.  **Investor Matching System**\
     Automates matching investor profiles to real estate properties, integrating PDF parsing and GPT-powered queries.
 
-5.  **YouTube Clone (Frontend)**\
-    A clone of the YouTube frontend with modern design principles and React.js.
+    - **Frontend:** React.js
+    - **Backend:** Node.js, Express.js, MongoDB
+
+5.  **YouTube Clone**\
+    A responsive clone of YouTube's frontend with modern design principles.
+
+    - **Frontend:** React.js
+    - **Backend:** Node.js, Express.js, MongoDB
 
 ---
 
 ### 🏆 Achievements
 
 - **Certificate of JavaScript Mastery Competition**
-- Successfully developed and deployed several full-stack applications for clients and personal projects.
+- Delivered full-stack applications for clients, enhancing functionality and performance.
 
 ---
 
 ### 📚 Currently Learning
 
-- **CI/CD and Deployment Processes** using GitHub Actions
-- **Open-source contributions** with a focus on static code analysis in JavaScript
+- Advanced **CI/CD pipelines** using GitHub Actions
+- Open-source contributions, focusing on **static code analysis tools**
 
 ---
 
 ### 🎯 My Goals
 
-- Build and maintain impactful open-source projects
-- Grow as a **Full-Stack Developer**
+- Build and maintain impactful **open-source projects**
+- Grow as a well-rounded **Full Stack Developer**
 - Establish a successful freelancing career and launch my own IT service company
-
----
 
 ### 🤝 Let's Connect!
 
