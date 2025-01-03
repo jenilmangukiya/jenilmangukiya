@@ -87,6 +87,6 @@ I'm a **Full Stack Developer** with over **3 years of experience** in designing 
 
 ### 🤝 Let's Connect!
 
-- **Portfolio:** [Link](https://www.upwork.com/freelancers/~019de92634cf2f99b8)
-- **LinkedIn:** [Link](https://www.linkedin.com/in/jenilmangukiya/)
+- **Portfolio:** [Upwork portfolio](https://www.upwork.com/freelancers/~019de92634cf2f99b8)
+- **LinkedIn:** [LinkedIn profile](https://www.linkedin.com/in/jenilmangukiya/)
 - **Email:** jenilmangukiya2002@gmail.com
