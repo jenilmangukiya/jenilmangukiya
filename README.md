@@ -40,10 +40,13 @@ I'm currently expanding my skill set by exploring **full-stack development** usi
 2.  **Chat Application**\
     A real-time chat app with features like group and direct messaging, friend requests, and profile management.
 
-3.  **Investor Matching System**\
+3.  **Classic Admin Panel**\
+    A modern and intuitive admin panel built with React.js and MUI. Features include user management, real-time analytics, role-based access control, and dynamic data visualization.
+
+4.  **Investor Matching System**\
     Automates matching investor profiles to real estate properties, integrating PDF parsing and GPT-powered queries.
 
-4.  **YouTube Clone (Frontend)**\
+5.  **YouTube Clone (Frontend)**\
     A clone of the YouTube frontend with modern design principles and React.js.
 
 ---
